@@ -1,2 +1,2 @@
-# Financial-Performance-Budget-Analysis
+<img width="1920" height="1080" alt="0" src="https://github.com/user-attachments/assets/a0ff1e01-f296-4955-95a1-04b65d61b690" /># Financial-Performance-Budget-Analysis
 Financial Performance &amp; Budget Analysis using Advanced Excel and Power BI. Analyzed budgeted vs actual revenue and expenses, calculated gross and net profit margins, identified budget variances, and evaluated monthly financial performance through interactive dashboards to generate insights and support better business decisions.
